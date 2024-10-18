@@ -1,0 +1,3 @@
+kustomize:
+  images:
+  - byeungchun/nodeapp-git:1.3.0
